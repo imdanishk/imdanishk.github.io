@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "name": "Cheese Burger",
+    "price": "Rs. 180",
+    "image": "https://i2.wp.com/www.foodrepublic.com/wp-content/uploads/2012/03/033_FR11785.jpg?fit=1000%2C665&ssl=1"
+  },
+  {
+    "id": "2",
+    "name": "Pepperoni Pizza",
+    "price": "Rs. 220",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf4FTgzbC4mz0bRGC6aNtMPxgEuE5PFF7Rw6CM4Q3blCVqXjcOKA&s"
+  },
+  {
+    "id": "3",
+    "name": "Egg Rolls",
+    "price": "Rs. 120",
+    "image": "https://www.cookingclassy.com/wp-content/uploads/2019/09/Egg-Rolls-8.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Saucy Fried Momo",
+    "price": "Rs. 200",
+    "image": "https://static.wixstatic.com/media/b16af3_6466236f8bcf426c8f60953842d10702~mv2.jpg/v1/fill/w_640,h_640,al_c,q_90/b16af3_6466236f8bcf426c8f60953842d10702~mv2.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Italian Pizza",
+    "price": "Rs. 350",
+    "image": "https://image.freepik.com/free-photo/tasty-pepperoni-pizza-black-concrete-background_79782-103.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Pani Puri",
+    "price": "Rs. 50",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/hfzqsghtwzpukdu0v2hc"
+  },
+  {
+    "id": "7",
+    "name": "Doughnut",
+    "price": "Rs. 35",
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F12%2F2018%2F01%2Fdonuts-sugar-sleep-2000.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Indian Dosa",
+    "price": "Rs. 150",
+    "image": "https://www.bhojanalay.com/wp-content/uploads/masaladosa-800x600.jpeg"
+  },
+  {
+    "id": "9",
+    "name": "Muttor Paneer",
+    "price": "Rs. 240",
+    "image": "https://www.whiskaffair.com/wp-content/uploads/2015/10/Matar-Paneer-5.jpg"
+  }
+ 
+  ]
